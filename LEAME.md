@@ -20,5 +20,8 @@
 #### iniicar git
 #### criar projeto vite npm create vite@lastest
 #### npm install
+
+### Instalar pacote adminJS
 #### npm add adminjs @adminjs/express express express-formidable tslib
 #### 
+## Obs.: React iniciado as 2:46:00
